@@ -355,6 +355,7 @@ nav .btn1 {
     flex-direction: row;
     align-items: center;
     justify-content: space-between;
+    min-height: 65vh;
 }
 
 .contact h1 {
@@ -469,13 +470,13 @@ footer .about {
     width: 80%;
 }
 
-foot
 /* about us */
 
 .about-us {
     padding: 3rem 7rem;
     gap: 3rem;
 }
+
 
 .about-us p {
     font-size: 1.2rem;
