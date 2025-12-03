@@ -258,7 +258,7 @@ nav .btn1 {
     background-color: white;
     border: 1px solid rgba(0, 0, 0, 0.1);
     padding: 2rem;
-    flex: 1 1 16.9rem;
+    flex: 1 1 15rem;
     border-radius: 0.5rem;
     height: 15rem;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
